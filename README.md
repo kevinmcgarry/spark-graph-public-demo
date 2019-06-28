@@ -1,1 +1,2 @@
-# spark-graphx-public-demo
+# spark-graph-public-demo
+This repository is an example of using Spark and GraphFrames to solve the problem of relationising a graph dataset from a single graph into multiple datasets that align with relational tables.
